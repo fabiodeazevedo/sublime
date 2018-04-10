@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"GitGutter",
+		"Gitignore",
+		"Jedi - Python autocompletion",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pycodestyle",
+		"Theme - Soda"
+	]
+}

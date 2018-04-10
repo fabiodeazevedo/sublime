@@ -1,0 +1,9 @@
+/*# User/Default.sublime-mousemap*/
+
+[
+    {
+        "modifiers": ["ctrl"], "button": "button1",
+        "command": "sublime_jedi_goto",
+        "press_command": "drag_select"
+    }
+]

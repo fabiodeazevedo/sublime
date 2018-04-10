@@ -1,0 +1,43 @@
+{
+        "debug": false,
+        "delay": 0.25,
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+
+        "lint_mode": "background",
+
+        "linters": {
+              "annotations": {
+                   "@disable": false,
+              },
+
+              "csslint": {
+                "@disable": false
+              },
+
+              "flake8": {
+                "@disable": false,
+                "max-complexity": 15, // -1
+                "max-line-length": 120,
+                "args": [],
+                "builtins": "",
+                "excludes": [],
+                "executable": "",
+                "ignore": "E501",
+                "jobs": "1",
+                "select": "",
+                "show-code": true
+              },
+              "htmltidy": {
+                "@disable": false
+              },
+              "jsl": {
+                "@disable": false
+              },
+              "json": {
+                  "@disable": false
+              },
+              "pyyaml": {
+                 "@disable": false
+              }
+         }
+}

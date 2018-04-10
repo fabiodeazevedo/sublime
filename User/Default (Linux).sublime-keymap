@@ -1,0 +1,12 @@
+[
+  // Copy file name
+  {
+    "keys": ["ctrl+shift+c"],
+    "command": "copy_path_to_clipboard"
+  },
+  // Close all other tabs
+  {
+    "keys": ["cmd+alt+w"],
+    "command": "close_tabs"
+  }
+]
